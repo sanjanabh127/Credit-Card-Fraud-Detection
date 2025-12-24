@@ -69,7 +69,7 @@ The trained model is integrated into a **Flask web app** that allows users to in
 
 ---
 
-###  Sample Output
+###   Output
 
 - **Legitimate Transaction:** Transaction is safe  
 - **Fraudulent Transaction:** Fraud alert detected  
