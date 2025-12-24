@@ -87,11 +87,5 @@ This project demonstrates:
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/sanjanabh127/Credit-Card-Fraud-Detection.git
-cd Credit-Card-Fraud-Detection
 
 
